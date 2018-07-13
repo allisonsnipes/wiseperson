@@ -1,6 +1,6 @@
 function wisePerson(wiseType, whatToSay) {
   
-  return 'A wise ${wiseType} once said: "${whatToSay}".';
+  return `A wise ${wiseType} once said: "${whatToSay}".`;
 }
 
 /* From here down, you are not expected to 
